@@ -1,0 +1,28 @@
+h5 {
+  font-size: 25px;
+  font-weight: 700;
+}
+p {
+  color: #79808f;
+}
+.icon {
+  font-size: 45px;
+  color: blue;
+  top: -10px;
+}
+.info {
+  color: #79808f;
+  font-size: small;
+  left: -50px;
+}
+.days {
+  font-size: 18px;
+  margin: 20px 0 auto;
+}
+
+#info {
+  margin-left: 50px;
+}
+.units {
+  font-size: 15px;
+}
